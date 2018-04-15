@@ -19,10 +19,4 @@ public class DemoApplication {
 	public void method(){
 
 	}
-
-	/**新建方法二
-	 */
-	public void method2(){
-
-	}
 }
