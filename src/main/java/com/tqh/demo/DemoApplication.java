@@ -19,4 +19,8 @@ public class DemoApplication {
 	public void method(){
 
 	}
+	/**
+	 * 新建方法3
+	 */
+
 }
