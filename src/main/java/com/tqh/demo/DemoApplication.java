@@ -25,4 +25,7 @@ public class DemoApplication {
 	public void method2(){
 
 	}
+    /**
+     * 新建方法三
+     */
 }
